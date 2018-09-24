@@ -1,0 +1,6 @@
+framework module Pods_ParseChat_CodePath {
+  umbrella header "Pods-ParseChat-CodePath-umbrella.h"
+
+  export *
+  module * { export * }
+}
